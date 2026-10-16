@@ -8,8 +8,8 @@
   --paper:      #F5F2EC;
   --ink:        #221F1B;
   --muted:      #857C6E;
-  --accent:     #8A3033;
-  --accent-ink: #6E2427;
+  --accent:     #2E5090;
+  --accent-ink: #22406F;
   --line:       #E4DDCE;
   --sans:  'Hanken Grotesk', system-ui, -apple-system, sans-serif;
   --serif: 'Fraunces', Georgia, 'Times New Roman', serif;
@@ -20,8 +20,8 @@
     --paper:      #1A1816;
     --ink:        #ECE7DF;
     --muted:      #9B9183;
-    --accent:     #D98A86;
-    --accent-ink: #E6A9A5;
+    --accent:     #89ABDD;
+    --accent-ink: #A6C2E8;
     --line:       #332F2A;
   }
 }
